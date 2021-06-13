@@ -1,0 +1,9 @@
+import os
+DIRECTORY=os.getcwd()
+
+KITE_PIN = "Kite PIN"
+CDSL_PIN = "CDSL PIN"
+WINDOWS_USER = "WINDOWS USER_NAME"
+
+
+WEB_DRIVER_LOCATION=f"{DIRECTORY}\chromedriver.exe"
