@@ -53,9 +53,13 @@ You can save your ```Kite``` password in Google Chrome's save password feature s
 
 Open ```config.py``` in a text/code editor.
 
-Enter your ```CDSL``` PIN.
+Enter your ```CDSL``` PIN and ```WINDOWS_USER``` which can be found out by navigating to ```C:\Users``` in your windows explorer.
 
-If Kite is configured for 2FA with Google Authenticator the process will be unsuccessful.
+![Screenshot 2021-06-14 000730](https://user-images.githubusercontent.com/13176032/121818397-93b8d980-cca4-11eb-8db6-be8fe570f3c6.png)
+ 
+ eg. ```WINDOWS_USER="abel_"```
+
+Note : If Kite is configured for 2FA with Google Authenticator the process will be unsuccessful.
 
 ### 5. Usage
 
