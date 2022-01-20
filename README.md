@@ -1,7 +1,7 @@
 # CDSL-Authorisation-Automation-SMS
 
 ## Update : A new fully automated version is now available here : [https://qdots.gitbook.io/autocdsl/](https://qdots.gitbook.io/autocdsl/)
-This is A one time setup to automate CDSL authorsation daily.
+## This is a one time setup to automate CDSL authorsation daily.Place GTT order with peace.
 
 This is an updated version of CDSL OTP Verification that directly fetches OTP from SMS using [https://messages.google.com/](https://messages.google.com/) which is a service by Google which enables you to view SMS in your mobile directly in a web-browser.
 
